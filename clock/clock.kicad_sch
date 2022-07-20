@@ -3606,7 +3606,7 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "BTH_DWN" (shape input) (at 54.61 97.79 0) (fields_autoplaced)
+  (global_label "BTN_DWN" (shape input) (at 54.61 97.79 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 75cd91f5-bfe8-428c-b0ce-bcca14a6a533)
     (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 65.6107 97.7106 0)
